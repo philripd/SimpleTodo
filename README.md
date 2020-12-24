@@ -1,10 +1,10 @@
 # Project 0 - *Simple Todo*
 
-**SimpleTodo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimpleTodo** is an Android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 I followed CodePath's YouTube video [playlist](https://www.youtube.com/playlist?list=PLrT2tZ9JRrf6cHOlMkbmTMFt0RzpJiRGX) to develop this project.
 
-This readme is based on CodePath's [template](https://courses.codepath.org/snippets/android_university/readme_templates/project_0_readme.md?raw=true). It is a work-in-progress, as I continue to work on this project.
+This readme is based on CodePath's [template](https://courses.codepath.org/snippets/android_university/readme_templates/project_0_readme.md?raw=true).
 
 Submitted by: **Phillip Dang**
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -24,19 +24,20 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] User can **leave an item's edit text box blank** to remove an item
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-When following CodePath's YouTube video playlist, there were some portions where the instructor's version of Android Studio caused some technical issues that I had to work out.
+When following CodePath's YouTube video playlist, there were some portions where the instructor's code did not work in newer Android Studio versions.
+I successfully implemented similar solutions which worked during my testing.
 
 ## License
 
